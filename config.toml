@@ -1,4 +1,4 @@
-baseURL = "http://ahadvirani.github.io"
+baseURL = "https://ahadvirani.github.io"
 languageCode = "en-us"
 title = "Ahad Virani"
 theme = "sam"
