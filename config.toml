@@ -1,0 +1,24 @@
+baseURL = "http://ahadvirani.github.io"
+languageCode = "en-us"
+title = "Ahad Virani"
+theme = "sam"
+
+[params]
+    homepage            = "main"                        # What to call the home page link
+    favicon             = "Iconsmind-Outline-Code-Window.ico"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who is ahad?"
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "projects"
+
+[[params.mainMenu]]
+    link = "/ahadsfoodchallenge"
+    text = "#ahadsfoodchallenge"
+
+[[params.mainMenu]]
+    link = "/connect"
+    text = "connect"
