@@ -1,7 +1,8 @@
+
 baseURL = "https://www.ahadvirani.com/"
 languageCode = "en-us"
 title = "Ahad Virani"
-theme = "sam"
+theme = "hugo-theme-sam"
 
 [params]
     homepage            = "main"                        # What to call the home page link
