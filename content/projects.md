@@ -4,6 +4,15 @@ date: 2018-10-26T08:39:02-04:00
 draft: false
 ---
 
+<h4>Diet Prescription Calculator</h4>
+<p>
+  During this summer, I worked with the UF Genetics Institute to develop an all-in-one diet prescription calculator that would allow users to calculate daily energy expenditure, supplement intake recommendations, patient meal intake with macronutrient and micronutrient breakdown, and final diet prescription calculations for precision ketogenic therapy (PKT).
+</p>
+<a target="_blank" href="/img/dietRx.jpg">
+  <img class="image" src="/img/dietRx.jpg">
+</a>
+
+
 <a href="https://nightowls-study-spots.herokuapp.com/" target="_blank">UF Study Spots</a>
 <p>
   Created a web app using the MEAN stack and Agile development methods to show different
