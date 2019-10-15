@@ -16,7 +16,7 @@ draft: false
 <a href="https://github.com/ahadvirani/HuffmanAlg" target="_blank">Implementation of Huffman Algorithm</a>
 <p>Created a program using Java that generated a Huffman tree to count the frequency of char values in a file. Project utilized hash tables and binary trees data structures.t</p>
 
-<a href="https://github.com/ahadvirani/SortingAnalysis">Analysis of Different Sorting Algorithms</a>
+<a href="https://github.com/ahadvirani/SortingAnalysis" target="_blank">Analysis of Different Sorting Algorithms</a>
 <p>Analyzed the computational complexity of merge sort and selection sort algorithms. Three cases were tested (ascending order, descending order and random order) 10 times for each sorting method.</p>
 
 <a href="https://github.com/ahadvirani/SparseMatrix" target="_blank">Sparse Matrix Addition and Subtraction</a>
