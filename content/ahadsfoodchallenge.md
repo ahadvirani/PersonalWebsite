@@ -5,7 +5,9 @@ draft: false
 ---
 The food challenge was something I was inspired to do when I was in high school. Its purpose is to share my passion for food and cooking. Here are some of the best things I've eaten and made.
 
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/6067484a30cb5854ba5674fc27f57cf6.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:200%;border:0;overflow:hidden;"></iframe>
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="ahadsfoodchallenge"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
 
 <br>Follow Me:</br>
 <a href="https://www.instagram.com/ahadsfoodchallenge/"target="_blank">@ahadsfoodchallenge</a>
