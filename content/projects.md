@@ -4,6 +4,11 @@ date: 2018-10-26T08:39:02-04:00
 draft: false
 ---
 
+<a href="https://macrobuddy.com" target="_blank">MacroBuddy</a>
+<p>
+  Created a web app for my senior project that allows users to find recipes based on their macro/micro nutrient needs and diet type. The project utilizes the Spoonacular API on the backend and the GatsbyJS framework along with react-bootstrap components on the frontend.
+</p>
+
 <h4>Diet Prescription Calculator</h4>
 <p>
   During this summer, I worked with the UF Genetics Institute to develop an all-in-one diet prescription calculator that would allow users to calculate daily energy expenditure, supplement intake recommendations, patient meal intake with macronutrient and micronutrient breakdown, and final diet prescription calculations for precision ketogenic therapy (PKT).
@@ -11,7 +16,6 @@ draft: false
 <a target="_blank" href="/img/dietRx.jpg">
   <img class="image" src="/img/dietRx.jpg">
 </a>
-
 
 <a href="https://nightowls-study-spots.herokuapp.com/" target="_blank">UF Study Spots</a>
 <p>
@@ -32,8 +36,3 @@ draft: false
 <p>Created a program using Java that will implement a sparse matrix using linked lists and then perform addition of two matrices and multiplication of two matrices.</p>
 
 <h2>projects in progress</h2>
-<h4>Recipe Recommender</h4>
-<p>
-  Creating a web application for senior project that will allow user to find recipes based on their macronutrients and micronutrient needs.
-  Project will utilize the Spoonacular API on the backend and the front end will be created using the GatsbyJS framework.
-</p>
